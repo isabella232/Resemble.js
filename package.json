@@ -1,6 +1,6 @@
 {
     "name": "@gemini-testing/resemblejs",
-    "version": "2.10.3",
+    "version": "2.11.0",
     "description": "Image analysis and comparison with HTML5",
     "main": "resemble.js",
     "repository": {
