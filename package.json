@@ -35,7 +35,7 @@
         ]
     },
     "dependencies": {
-        "canvas": "^2.0.1"
+        "@gemini-testing/canvas-prebuilt": "^1.6.14"
     },
     "devDependencies": {
         "chai": "^3.4.1",

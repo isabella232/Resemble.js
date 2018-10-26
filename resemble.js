@@ -21,7 +21,7 @@ URL: https://github.com/Huddle/Resemble.js
     if (typeof Image !== "undefined") {
         Img = Image;
     } else {
-        Canvas = require("canvas"); // eslint-disable-line global-require
+        Canvas = require("@gemini-testing/canvas-prebuilt"); // eslint-disable-line global-require
         Img = Canvas.Image;
     }
 
